@@ -1,0 +1,12 @@
+# Root folder path containing your dataset
+path: C:/Users/tasne/Desktop/HighwayProject/yolo_dataset
+
+# Relative sub-paths to image folders
+train: images/train
+val: images/val
+test: images/test
+
+# Class ID mapping
+names:
+  0: shoulder
+  1: gore_area
